@@ -1,0 +1,9 @@
+<student>
+	        <id>1</id>
+			        <firstName>Антон</firstName>
+					        <middleName>Сергеевич</middleName>
+									<lastName>Городецкий</lastName>
+										        <age>23</age>
+														<numPets>0</numPets>
+																	<salary>Желаемая зарплата: $1,000,000</salary>
+																		    </student>
