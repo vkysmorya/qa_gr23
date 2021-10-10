@@ -1,0 +1,31 @@
+1) pwd
+2) mkdir dir1
+3) cd dir1
+4) mkdir a b c
+5) cd a
+6) touch 1.txt 2.txt 3.txt 4.json 5.json
+7) mkdir d e f
+8. ls -la
+9) vim 1.txt
+10) i text
+11) "Esq" :wq
+12) cd ../..
+13) mv 1.txt 2.txt /mnt/d/testing/dir1/b
+14) cp 3.txt 4.json /mnt/d/testing/dir1/b
+15) find /mnt/d/testing -name "1.txt" -type f
+16) tail -f реальное_время.txt | grep text
+17) head -n 3 реальное_время.txt
+18) tail -n 3 реальное_время.txt
+19) less имя_файла.txt
+20) date "+Дата: %a, %d %B, %Y %nВремя: %T"
+21) "http://162.55.220.72:5005/get_method?name=Sasha&age=23"
+2)#!/bin/bash
+cd /d/testing/dir101/
+mkdir a b c
+cd /d/testing/dir101/a/
+touch 1.txt 2.txt 3.txt 1.json 2.json
+mkdir -p /d/testing/dir101/d/e/f/
+ls -la
+mv /d/testing/dir101/a/1.json /d/testing/dir101/a/2.txt /d/testing/
+ 
+ 
