@@ -1,0 +1,8 @@
+Bug_id
+Title
+Enviroment
+Precondition
+STR
+AR
+ER
+Attachments
